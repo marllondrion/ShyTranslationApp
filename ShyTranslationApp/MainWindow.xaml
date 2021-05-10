@@ -22,8 +22,37 @@
                 <RowDefinition Height="75"  />
                 <RowDefinition />
             </Grid.RowDefinitions>
+
+            <TextBlock Text="Drion"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Left"
+                       Foreground="White"
+                       FontSize="22"
+                       Margin="20,0,0,0"/>
+
+
+            <StackPanel Grid.Row="1">
+                <RadioButton Content="Home"
+                             Checked="c"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+                <RadioButton Content="Setting"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+                <RadioButton Content="Aboult"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+            </StackPanel>
             
-           
         </Grid>
         
         

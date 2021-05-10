@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("ShyTranslationApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("drion.dev")]
 [assembly: AssemblyProduct("ShyTranslationApp")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
