@@ -22,6 +22,7 @@ namespace ShyTranslationApp
     {
         public MainWindow()
         {
+
             InitializeComponent();
         }
     }

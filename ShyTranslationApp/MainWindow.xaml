@@ -33,7 +33,6 @@
 
             <StackPanel Grid.Row="1">
                 <RadioButton Content="Home"
-                             Checked="c"
                              Height="50"
                              Foreground="White"
                              FontSize="14"
